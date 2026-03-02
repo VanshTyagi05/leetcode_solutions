@@ -1,6 +1,7 @@
-# Write your MySQL query statement below
-SELECT w1.id
-from weather as w1 
-join weather as w2
-where datediff(w1.recordDate,w2.recordDate)=1
-and w1.temperature > w2.temperature;
+SELECT today.id
+FROM Weather yesterday 
+CROSS JOIN Weather today
+
+WHERE DATEDIFF(today.recordDate,yesterday.recordDate) = 1
+    AND today.temperature > yesterday.temperature
+;
