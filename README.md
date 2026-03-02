@@ -6,5 +6,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
