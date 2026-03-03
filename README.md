@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1148-article-views-i/) | Easy |
