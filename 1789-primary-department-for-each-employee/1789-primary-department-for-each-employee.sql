@@ -1,10 +1,14 @@
-# Write your MySQL query statement below
-select employee_id,department_id
-from employee
-where primary_flag='Y'
-group by employee_id
-UNION
-select employee_id,department_id
-from employee
-group by employee_id
-having count(employee_id)=1;
+SELECT 
+    e.employee_id, 
+    e.department_id
+FROM Employee e
+JOIN 
+(SELECT 
+        employee_id, 
+        COUNT(department_id) AS dept_count
+    FROM Employee
+    GROUP BY employee_id
+) AS counts 
+ON e.employee_id = counts.employee_id
+WHERE e.primary_flag = 'Y' 
+   OR counts.dept_count = 1;
