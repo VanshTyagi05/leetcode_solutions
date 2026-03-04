@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1204-last-person-to-fit-in-the-bus](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1280-students-and-examinations/) | Easy |
+| [1321-restaurant-growth](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1341-movie-rating/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
