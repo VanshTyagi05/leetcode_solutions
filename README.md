@@ -68,4 +68,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
