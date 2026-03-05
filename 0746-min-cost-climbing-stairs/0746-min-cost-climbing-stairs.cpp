@@ -1,12 +1,18 @@
 class Solution {
 public:
-    int minCostClimbingStairs(vector<int>& cost) {
-        int n=cost.size();
-        vector<int>dp(n+2);
-        dp[n]=0; //i.e you have reached the top now to dont need 
-        for(int i=n-1;i>=0;i--){
-            dp[i]=cost[i] + min(dp[i + 1], dp[i + 2]);
+    int fun(int idx,vector<int>&cost){
+        if(idx>=cost.size()){
+            return 0; // we have reached the top
         }
-        return min(dp[0],dp[1]);
+        //first cvhoice climb only ne step
+        int onestep=cost[idx]+fun(idx+1,cost);
+        int twostep=cost[idx]+fun(idx+2,cost);
+        return min(onestep,twostep);
+    }
+    int minCostClimbingStairs(vector<int>& cost) {
+        
+        int strting0=fun(0,cost);
+        int strting1=fun(1,cost);
+        return min(strting0,strting1);
     }
 };
