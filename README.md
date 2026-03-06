@@ -75,14 +75,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
 <!---LeetCode Topics End-->
