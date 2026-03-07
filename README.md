@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0198-house-robber/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
 ## Memoization
