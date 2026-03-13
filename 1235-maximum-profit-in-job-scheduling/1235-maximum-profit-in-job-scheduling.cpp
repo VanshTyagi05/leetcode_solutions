@@ -3,46 +3,53 @@ public:
     int N;
     int dp[50001];
 
-    int helper(int idx, vector<vector<int>>& combined,
-               vector<int>& startTimes) {
-        if (idx >= N)
+    int helper(int idx, vector<vector<int>>& combined) {
+        if (idx >= N) {
             return 0;
+        }
         if (dp[idx] != -1)
             return dp[idx];
 
-        // Case 1: Skip the current job
-        int not_Take = helper(idx + 1, combined, startTimes);
+        // 1. Choice: Not Take
+        int not_Take = helper(idx + 1, combined);
 
-        // Case 2: Take the current job
-        // Use binary search to find the first job where combined[j][0] >=
-        // combined[idx][1]
-        int next_idx = lower_bound(startTimes.begin() + idx + 1,
-                                   startTimes.end(), combined[idx][1]) -
-                       startTimes.begin();
+        // 2. Choice: Take
+        // Binary Search to find the first job whose startTime >= current job's
+        // endTime
+        int next_idx = N;
+        int low = idx + 1;
+        int high = N - 1;
+        int target = combined[idx][1]; // current job's end time
 
-        int take = combined[idx][2] + helper(next_idx, combined, startTimes);
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (combined[mid][0] >= target) {
+                next_idx = mid;
+                high = mid - 1; // Look for an even earlier job that still fits
+            } else {
+                low = mid + 1;
+            }
+        }
+
+        int take = combined[idx][2] + helper(next_idx, combined);
 
         return dp[idx] = max(take, not_Take);
     }
 
     int jobScheduling(vector<int>& startTime, vector<int>& endTime,
                       vector<int>& profit) {
-        N = startTime.size();
+        int n = startTime.size();
+        N = n;
         memset(dp, -1, sizeof(dp));
 
         vector<vector<int>> combined;
-        for (int i = 0; i < N; i++) {
+        for (int i = 0; i < n; i++) {
             combined.push_back({startTime[i], endTime[i], profit[i]});
         }
 
-        // Sort by start time to use lower_bound effectively
+        // Must sort by startTime for binary search to work
         sort(combined.begin(), combined.end());
 
-        // Create a separate vector of start times for the binary search tool
-        vector<int> sortedStartTimes;
-        for (auto& job : combined)
-            sortedStartTimes.push_back(job[0]);
-
-        return helper(0, combined, sortedStartTimes);
+        return helper(0, combined);
     }
 };
