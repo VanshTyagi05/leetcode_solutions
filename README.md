@@ -155,4 +155,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+## Concurrency
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1114-print-in-order](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1114-print-in-order/) | Easy |
 <!---LeetCode Topics End-->
