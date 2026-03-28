@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0551-student-attendance-record-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0740-delete-and-earn](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
@@ -204,4 +206,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 <!---LeetCode Topics End-->
