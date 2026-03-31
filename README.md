@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0746-min-cost-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
+| [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1043-partition-array-for-maximum-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1105-filling-bookcase-shelves](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
 | [0877-stone-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
+| [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Dynamic Programming
@@ -261,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0093-restore-ip-addresses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0126-word-ladder-ii/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
 <!---LeetCode Topics End-->
