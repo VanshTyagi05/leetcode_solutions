@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0551-student-attendance-record-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0551-student-attendance-record-i/) | Easy |
+| [1154-day-of-the-year](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
 | [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1154-day-of-the-year](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
