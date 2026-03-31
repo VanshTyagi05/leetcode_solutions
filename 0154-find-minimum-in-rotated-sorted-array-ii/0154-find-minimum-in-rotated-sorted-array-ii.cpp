@@ -1,17 +1,15 @@
+#include <vector>
+
 class Solution {
 public:
     int findMin(vector<int>& nums) {
-        int start = 0, end = nums.size() - 1, ans = nums[0], mid;
-
-        while (start <= end) {
-            mid = start + (end - start) / 2;
-            if (nums[mid] >= nums[0]) {
-                start = mid + 1;
-            } else {
-                ans = nums[mid];
-                end = mid - 1;
-            }
+        int left = 0, right = nums.size() - 1;
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] > nums[right]) left = mid + 1;
+            else if (nums[mid] < nums[right]) right = mid;
+            else right--; // Handle duplicates
         }
-        return ans;
+        return nums[left];
     }
 };
