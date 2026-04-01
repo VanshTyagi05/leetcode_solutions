@@ -272,4 +272,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
