@@ -1,33 +1,35 @@
 class Solution {
 public:
-   int m,n;
+    int m, n;
     int dp[301][301];
-    int solve(int i,int j,vector<vector<char>>& matrix){
-         if(i>=m || j>=n || matrix[i][j]=='0'){
-            return 0; // i.e out of bound case
-         }
-         
-        if(dp[i][j]!=-1)return dp[i][j];
-         int right=solve(i,j+1,matrix);
-         int down=solve(i+1,j,matrix);
-         int diag=solve(i+1,j+1,matrix);
+    int solve(vector<vector<char>>& matrix) {
+        memset(dp, 0, sizeof(dp));
+        int maxSide=0;
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+                // IMPORTANT: Only calculate if the current cell is '1'
+                if (matrix[i][j] == '1') {
+                    int right = (j + 1 < n) ? dp[i][j + 1] : 0;
+                    int down = (i + 1 < m) ? dp[i + 1][j] : 0;
+                    int diag = (i + 1 < m && j + 1 < n) ? dp[i + 1][j + 1] : 0;
 
-       
-         return dp[i][j]= 1+min({right, down, diag});
+                    dp[i][j] = 1 + min({right, down, diag});
 
-    }
-    int maximalSquare(vector<vector<char>>& matrix) {
-        m=matrix.size();
-        n=matrix[0].size();
-        int ans=0;
-        memset(dp,-1,sizeof(dp));
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(matrix[i][j]=='1'){
-                 ans=max(ans,solve(i,j,matrix));
+                    // Track the largest side found so far
+                    maxSide = max(maxSide, dp[i][j]);
+                } else {
+                    dp[i][j] = 0; // Explicitly set to 0 if matrix cell is '0'
                 }
             }
         }
-        return ans*ans;
+
+        return maxSide*maxSide;
+    }
+    int maximalSquare(vector<vector<char>>& matrix) {
+        m = matrix.size();
+        n = matrix[0].size();
+        int ans = 0;
+        return solve(matrix);
+        
     }
 };
