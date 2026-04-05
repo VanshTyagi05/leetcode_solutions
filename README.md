@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0165-compare-version-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0165-compare-version-numbers/) | Medium |
+| [0282-expression-add-operators](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0551-student-attendance-record-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0282-expression-add-operators](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
 | [0877-stone-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0282-expression-add-operators](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0282-expression-add-operators/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
