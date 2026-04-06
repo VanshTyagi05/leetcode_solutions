@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0740-delete-and-earn](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0877-stone-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0740-delete-and-earn](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [0874-walking-robot-simulation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0068-text-justification](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2751-robot-collisions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2751-robot-collisions/) | Hard |
 ## Linked List
