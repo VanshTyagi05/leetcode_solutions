@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1105-filling-bookcase-shelves](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1232-check-if-it-is-a-straight-line](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1154-day-of-the-year](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1154-day-of-the-year/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
