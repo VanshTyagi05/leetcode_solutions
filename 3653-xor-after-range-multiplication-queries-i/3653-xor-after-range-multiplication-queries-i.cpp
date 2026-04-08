@@ -10,8 +10,9 @@ public:
             int vi = queries[i][3];
             int idx = li;
             while (idx <= ri) {
-            
-                nums[idx] = (1LL*nums[idx] * vi) % mod;
+
+                nums[idx] = ((long long)nums[idx] * vi) % mod;
+
                 idx += ki;
             }
         }
