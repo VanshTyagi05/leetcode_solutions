@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0275-h-index-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2069-walking-robot-simulation-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2751-robot-collisions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2751-robot-collisions/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -355,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
