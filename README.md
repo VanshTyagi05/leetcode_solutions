@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
