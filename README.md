@@ -261,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -272,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0275-h-index-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0275-h-index-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
@@ -372,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 ## Design
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0304-range-sum-query-2d-immutable](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -406,12 +410,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
+| [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
@@ -419,9 +425,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 <!---LeetCode Topics End-->
