@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
