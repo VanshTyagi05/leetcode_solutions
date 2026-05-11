@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1154-day-of-the-year](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [2180-count-integers-with-even-digit-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2751-robot-collisions/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
