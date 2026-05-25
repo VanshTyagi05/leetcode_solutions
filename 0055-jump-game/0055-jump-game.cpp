@@ -7,9 +7,6 @@ public:
             max_reachable = max(max_reachable, i + nums[i]);
             if (max_reachable >= n - 1)
                 return true;
-            if (i == n - 2 && max_reachable <= n - 1) {
-                return false;
-            }
             if(i==max_reachable && nums[i]==0)return false;
             
         }
