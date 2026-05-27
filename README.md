@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1306-jump-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
+| [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
@@ -410,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1306-jump-game-iii/) | Medium |
+| [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Binary Tree
