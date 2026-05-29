@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0221-maximal-square/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
@@ -420,10 +421,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [1306-jump-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -440,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
