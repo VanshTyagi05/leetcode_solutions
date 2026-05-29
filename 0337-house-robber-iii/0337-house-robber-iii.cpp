@@ -1,41 +1,23 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-     unordered_map<TreeNode* ,vector<int>>dp;
-    int solve(TreeNode* root,bool parent_robbed){
-        if(root==NULL)return 0;
-        int case1=0;
-        // Check if this exact state (node + parent condition) is already memoized
-        if (dp.count(root) && dp[root][parent_robbed] != -1) {
-            return dp[root][parent_robbed];
-        }
+    // Returns pair: {max_money_if_rob_root, max_money_if_skip_root}
+    pair<int, int> helper(TreeNode* root) {
+        if (root == nullptr) return {0, 0};
 
-        // Initialize memoization entry for this node if it doesn't exist
-        if (!dp.count(root)) {
-            dp[root] = {-1, -1};
-        }
-        if(parent_robbed==false){
-          case1=root->val+solve(root->left,true)+solve(root->right,true);
-        }
+        auto left = helper(root->left);
+        auto right = helper(root->right);
 
-        int case2; // here the parent is robbed and you can rob the current and must leave it
-        case2=solve(root->left,false)+solve(root->right,false);
+        // If we rob this node, we CANNOT rob its children
+        int rob_this = root->val + left.second + right.second;
 
-        return dp[root][parent_robbed]= max(case1,case2);
+        // If we skip this node, children can either be robbed or skipped (take max of each)
+        int skip_this = max(left.first, left.second) + max(right.first, right.second);
 
+        return {rob_this, skip_this};
     }
+
     int rob(TreeNode* root) {
-        dp.clear();
-        return solve(root,false);
+        auto result = helper(root);
+        return max(result.first, result.second);
     }
 };
