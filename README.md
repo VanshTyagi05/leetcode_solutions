@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1696-jump-game-vi](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1696-jump-game-vi/) | Medium |
 | [1871-jump-game-vii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1871-jump-game-vii/) | Medium |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2615-sum-of-distances/) | Medium |
