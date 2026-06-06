@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1934-confirmation-rate](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1934-confirmation-rate/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+| [3436-find-valid-emails](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3436-find-valid-emails/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
