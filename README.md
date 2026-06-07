@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1154-day-of-the-year](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
 | [1043-partition-array-for-maximum-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1105-filling-bookcase-shelves](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1105-filling-bookcase-shelves/) | Medium |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
