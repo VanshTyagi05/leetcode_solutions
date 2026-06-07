@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
 | [2540-minimum-common-value](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -465,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -487,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
