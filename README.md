@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2751-robot-collisions/) | Hard |
