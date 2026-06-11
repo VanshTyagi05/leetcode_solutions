@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0097-interleaving-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0126-word-ladder-ii/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0165-compare-version-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0165-compare-version-numbers/) | Medium |
 | [0224-basic-calculator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0097-interleaving-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0132-palindrome-partitioning-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0174-dungeon-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0198-house-robber/) | Medium |
