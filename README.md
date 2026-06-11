@@ -245,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [2180-count-integers-with-even-digit-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -477,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
