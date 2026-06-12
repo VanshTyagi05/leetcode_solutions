@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1696-jump-game-vi](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1696-jump-game-vi/) | Medium |
 | [1871-jump-game-vii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1871-jump-game-vii/) | Medium |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0338-counting-bits](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Greedy
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0275-h-index-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0275-h-index-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
@@ -483,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -493,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [1306-jump-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -504,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [3905-multi-source-flood-fill](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -560,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0284-peeking-iterator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2069-walking-robot-simulation-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
