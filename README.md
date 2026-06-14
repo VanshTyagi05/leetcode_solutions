@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0413-arithmetic-slices](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0413-arithmetic-slices](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0552-student-attendance-record-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0552-student-attendance-record-ii/) | Hard |
@@ -472,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0413-arithmetic-slices](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1871-jump-game-vii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1871-jump-game-vii/) | Medium |
 ## Simulation
