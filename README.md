@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0413-arithmetic-slices](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0740-delete-and-earn](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0740-delete-and-earn/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0413-arithmetic-slices](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0552-student-attendance-record-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0552-student-attendance-record-ii/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
