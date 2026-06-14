@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0224-basic-calculator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0227-basic-calculator-ii/) | Medium |
+| [0233-number-of-digit-one](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0282-expression-add-operators](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
 | [0877-stone-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0213-house-robber-ii/) | Medium |
 | [0221-maximal-square](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0221-maximal-square/) | Medium |
+| [0233-number-of-digit-one](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
@@ -643,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0233-number-of-digit-one](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0233-number-of-digit-one/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
