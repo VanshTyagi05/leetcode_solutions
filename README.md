@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
+| [1402-reducing-dishes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
+| [1402-reducing-dishes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
@@ -359,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
+| [1402-reducing-dishes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1402-reducing-dishes/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1340-jump-game-v](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1340-jump-game-v/) | Hard |
+| [1402-reducing-dishes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1402-reducing-dishes/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2751-robot-collisions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2751-robot-collisions/) | Hard |
