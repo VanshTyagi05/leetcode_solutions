@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0284-peeking-iterator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0413-arithmetic-slices](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0413-arithmetic-slices/) | Medium |
@@ -284,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0413-arithmetic-slices](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0354-russian-doll-envelopes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -418,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0275-h-index-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0275-h-index-ii/) | Medium |
+| [0354-russian-doll-envelopes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
