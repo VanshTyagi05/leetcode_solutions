@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0165-compare-version-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0165-compare-version-numbers/) | Medium |
+| [0214-shortest-palindrome](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0282-expression-add-operators](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0282-expression-add-operators/) | Hard |
@@ -674,6 +675,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [3934-smallest-unique-subarray](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Suffix Array
 | Problem Name | Difficulty |
@@ -682,6 +684,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0214-shortest-palindrome/) | Hard |
 | [3934-smallest-unique-subarray](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -691,4 +694,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1696-jump-game-vi](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1696-jump-game-vi/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0214-shortest-palindrome](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0214-shortest-palindrome/) | Hard |
 <!---LeetCode Topics End-->
