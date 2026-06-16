@@ -1,46 +1,48 @@
 class Solution {
 public:
     int n, m;
-    int total_walkable;
+    int total_walkable = 0;
     pair<int, int> start;
     pair<int, int> end;
     int ans = 0;
+    
     int r[4] = {-1, 0, 1, 0};
     int c[4] = {0, 1, 0, -1};
-    void solve(int i, int j, int curr_steps, vector<vector<int>>& grid,
-               vector<vector<bool>>& visited) {
-        // if (i >= n || i < 0 || j >= m || j < 0 || grid[i][j] == -1 ||
-        //     visited[i][j]) {
-        //     // invalid state hai
-        //     // a gr already visited hai toh bhi vapas ho jao
-        //     return;
-        // }
+
+    void solve(int i, int j, int cells_visited, vector<vector<int>>& grid, vector<vector<bool>>& visited) {
+        // 1. Base Case: Check boundaries and obstacles first
+        if (i >= n || i < 0 || j >= m || j < 0 || grid[i][j] == -1 || visited[i][j]) {
+            return;
+        }
+
+        // 2. Base Case: Reached the destination
         if (i == end.first && j == end.second) {
-            // bhaii end mai phocuh gye hai
-            if (curr_steps == total_walkable) {
+            if (cells_visited == total_walkable) {
                 ans += 1;
             }
             return;
         }
-        visited[i][j] = 1; // mark as viisted
+
+        // 3. Backtracking: Mark current cell as visited
+        visited[i][j] = true;
+
+        // 4. Explore all 4 neighbors
         for (int k = 0; k < 4; k++) {
             int new_r = i + r[k];
             int new_c = j + c[k];
-            // FIX 1: Safely check boundaries before accessing arrays
-            if (new_r >= 0 && new_r < n && new_c >= 0 && new_c < m) {
-                if (!visited[new_r][new_c] && grid[new_r][new_c] != -1) {
-                    solve(new_r, new_c, curr_steps + 1, grid, visited);
-                }
-            }
-            // mark as unviisted
+            // Boundaries are safely checked at the start of the next recursive call
+            solve(new_r, new_c, cells_visited + 1, grid, visited);
         }
-        visited[i][j] = 0;
+
+        // 5. Backtracking: Unmark current cell
+        visited[i][j] = false;
     }
+
     int uniquePathsIII(vector<vector<int>>& grid) {
         n = grid.size();
         m = grid[0].size();
-
         int obstacles = 0;
+
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (grid[i][j] == 1) {
@@ -53,10 +55,12 @@ public:
             }
         }
 
-        int total = n * m;
-        total_walkable = total - obstacles;
+        // Total walkable cells includes start and end squares
+        total_walkable = (n * m) - obstacles;
+        
         vector<vector<bool>> visited(n, vector<bool>(m, false));
-        visited[start.first][start.second] = 1; // strting cell is viisted
+        
+        // Start from step 1 because we are standing on the first walkable cell
         solve(start.first, start.second, 1, grid, visited);
 
         return ans;
