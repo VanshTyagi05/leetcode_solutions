@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0956-tallest-billboard](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0956-tallest-billboard/) | Hard |
 | [0980-unique-paths-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
+| [1035-uncrossed-lines](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1043-partition-array-for-maximum-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0935-knight-dialer](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0935-knight-dialer/) | Medium |
 | [0956-tallest-billboard](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0956-tallest-billboard/) | Hard |
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
+| [1035-uncrossed-lines](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1035-uncrossed-lines/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
