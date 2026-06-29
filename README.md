@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
