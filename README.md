@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
@@ -290,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1840-maximum-building-height/) | Hard |
 | [2180-count-integers-with-even-digit-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -474,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2540-minimum-common-value/) | Easy |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2926-maximum-balanced-subsequence-sum/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
+| [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -520,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2906-construct-product-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -680,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -773,7 +779,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
