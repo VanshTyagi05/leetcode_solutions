@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1260-shift-2d-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1306-jump-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0221-maximal-square/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0980-unique-paths-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0980-unique-paths-iii/) | Hard |
+| [1260-shift-2d-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -567,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0068-text-justification](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1260-shift-2d-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2138-divide-a-string-into-groups-of-size-k/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
