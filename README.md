@@ -272,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
