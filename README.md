@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Math
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3934-smallest-unique-subarray/) | Hard |
@@ -729,6 +732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
