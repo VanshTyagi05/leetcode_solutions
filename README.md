@@ -184,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -561,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Sliding Window
