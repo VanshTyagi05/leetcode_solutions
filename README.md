@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0284-peeking-iterator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0284-peeking-iterator/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0312-burst-balloons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0221-maximal-square/) | Medium |
 | [0233-number-of-digit-one](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0312-burst-balloons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0312-burst-balloons/) | Hard |
 | [0337-house-robber-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0338-counting-bits](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
