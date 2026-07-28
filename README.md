@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0174-dungeon-game/) | Hard |
 | [0198-house-robber](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0213-house-robber-ii/) | Medium |
+| [0218-the-skyline-problem](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0221-maximal-square](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0221-maximal-square/) | Medium |
 | [0275-h-index-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0275-h-index-ii/) | Medium |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -686,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
@@ -722,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -729,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
@@ -739,6 +744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
@@ -753,6 +759,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0218-the-skyline-problem/) | Hard |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [1696-jump-game-vi](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1696-jump-game-vi/) | Medium |
 | [2424-longest-uploaded-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2424-longest-uploaded-prefix/) | Medium |
@@ -816,4 +823,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
