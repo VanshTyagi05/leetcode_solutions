@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -445,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -501,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2670-find-the-distinct-difference-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2670-find-the-distinct-difference-array/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -720,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2287-rearrange-characters-to-make-target-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
