@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0486-predict-the-winner](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0282-expression-add-operators](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
+| [0486-predict-the-winner](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
@@ -352,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0446-arithmetic-slices-ii-subsequence/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0486-predict-the-winner](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0552-student-attendance-record-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0552-student-attendance-record-ii/) | Hard |
 | [0646-maximum-length-of-pair-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -413,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
@@ -792,6 +796,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0233-number-of-digit-one](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0233-number-of-digit-one/) | Hard |
+| [0486-predict-the-winner](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
