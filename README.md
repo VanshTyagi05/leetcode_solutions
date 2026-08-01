@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0290-word-pattern](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0290-word-pattern/) | Easy |
 | [0299-bulls-and-cows](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0299-bulls-and-cows/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0551-student-attendance-record-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0551-student-attendance-record-i/) | Easy |
@@ -649,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0126-word-ladder-ii/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1306-jump-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -667,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0126-word-ladder-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0282-expression-add-operators](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0282-expression-add-operators/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0980-unique-paths-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0980-unique-paths-iii/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
