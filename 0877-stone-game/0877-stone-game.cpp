@@ -27,7 +27,7 @@ public:
                 end--;
               }else{
                 bob+=piles[end];
-                end;
+                end--;
               }
             }
 
