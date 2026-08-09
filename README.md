@@ -868,4 +868,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3310-remove-methods-from-project/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
