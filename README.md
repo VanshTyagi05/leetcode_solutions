@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -538,6 +539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
