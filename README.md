@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
 | [1340-jump-game-v](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1402-reducing-dishes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1402-reducing-dishes/) | Hard |
@@ -444,6 +445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0338-counting-bits/) | Easy |
 | [0980-unique-paths-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -461,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1326-minimum-number-of-taps-to-open-to-water-a-garden/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1402-reducing-dishes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1402-reducing-dishes/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -519,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
+| [1386-cinema-seat-allocation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
