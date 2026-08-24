@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1872-stone-game-viii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1840-maximum-building-height](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1840-maximum-building-height/) | Hard |
+| [1872-stone-game-viii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1639-number-of-ways-to-form-a-target-string-given-a-dictionary/) | Hard |
 | [1696-jump-game-vi](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1696-jump-game-vi/) | Medium |
 | [1871-jump-game-vii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2466-count-ways-to-build-good-strings](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
@@ -445,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1927-sum-game/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -598,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1991-find-the-middle-index-in-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2615-sum-of-distances/) | Medium |
@@ -910,11 +915,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
