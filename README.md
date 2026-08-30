@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0118-pascals-triangle](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0140-word-break-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0097-interleaving-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0097-interleaving-string/) | Medium |
+| [0118-pascals-triangle](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0140-word-break-ii/) | Hard |
