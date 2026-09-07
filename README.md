@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0551-student-attendance-record-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [0879-profitable-schemes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [0935-knight-dialer](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0935-knight-dialer/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [0956-tallest-billboard](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0956-tallest-billboard/) | Hard |
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
 | [1035-uncrossed-lines](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1035-uncrossed-lines/) | Medium |
