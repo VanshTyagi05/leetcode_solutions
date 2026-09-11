@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3479-fruits-into-baskets-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3479-fruits-into-baskets-iii/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -668,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -897,6 +900,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0233-number-of-digit-one](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0233-number-of-digit-one/) | Hard |
 | [0486-predict-the-winner](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
