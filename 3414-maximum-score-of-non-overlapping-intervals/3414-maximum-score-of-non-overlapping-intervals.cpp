@@ -1,9 +1,3 @@
-#include <vector>
-#include <algorithm>
-#include <iostream>
-
-using namespace std;
-
 // Custom structure to store the optimal result for a state
 struct Result {
     long long score;
