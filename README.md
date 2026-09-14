@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0343-integer-break/) | Medium |
 | [0486-predict-the-winner](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1025-divisor-game/) | Easy |
 | [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
@@ -776,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Shell
