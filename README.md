@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1395-count-number-of-teams](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1395-count-number-of-teams/) | Medium |
 | [1402-reducing-dishes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1575-count-all-possible-routes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1575-count-all-possible-routes/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -436,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1416-restore-the-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1416-restore-the-array/) | Hard |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1510-stone-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1575-count-all-possible-routes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1575-count-all-possible-routes/) | Hard |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2080-range-frequency-queries](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2080-range-frequency-queries/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -617,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1964-find-the-longest-valid-obstacle-course-at-each-position/) | Hard |
@@ -698,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0220-contains-duplicate-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0413-arithmetic-slices](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0413-arithmetic-slices/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
