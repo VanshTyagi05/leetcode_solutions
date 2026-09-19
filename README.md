@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1154-day-of-the-year](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -796,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [1037-valid-boomerang](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1037-valid-boomerang/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Shell
 | Problem Name | Difficulty |
 | ------- | ------- |
