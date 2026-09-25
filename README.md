@@ -290,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1154-day-of-the-year](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1154-day-of-the-year/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -544,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1262-greatest-sum-divisible-by-three/) | Medium |
 | [1340-jump-game-v](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1340-jump-game-v/) | Hard |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0982-triples-with-bitwise-and-equal-to-zero](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0982-triples-with-bitwise-and-equal-to-zero/) | Hard |
 | [1048-longest-string-chain](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
@@ -776,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0126-word-ladder-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -799,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0282-expression-add-operators](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0980-unique-paths-iii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0980-unique-paths-iii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
@@ -826,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0227-basic-calculator-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2751-robot-collisions/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
