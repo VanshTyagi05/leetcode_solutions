@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2540-minimum-common-value/) | Easy |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2906-construct-product-matrix](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2466-count-ways-to-build-good-strings](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2466-count-ways-to-build-good-strings/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -1030,4 +1033,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
