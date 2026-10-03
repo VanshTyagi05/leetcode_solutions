@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0065-valid-number](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0068-text-justification/) | Hard |
 | [0093-restore-ip-addresses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0093-restore-ip-addresses/) | Medium |
@@ -397,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -841,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0224-basic-calculator](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -1040,6 +1043,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/VanshTyagi05/leetcode_solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
